@@ -16,4 +16,6 @@ match e:
         o=n1/n2
     case _:
         o=0
-        print
+        print("opção ivalida")
+print(f"o resultado da operção é {o}")
+print("teste de commit")
