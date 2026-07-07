@@ -19,3 +19,4 @@ match e:
         print("opção ivalida")
 print(f"o resultado da operção é {o}")
 print("teste de commit")
+print("teste push")

@@ -6,4 +6,5 @@ elif b>a:
     print("o maior valor é",b)
 else:
     print("os dois valores são iguais.")
-print("teste de pul")
+print("teste de pull")
+print("teste puch")
